@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Gronshin/Gronshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Gronshin
 
-Here are some ideas to get you started:
+Personal GitHub profile and public project hub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## About this profile
+
+This is the public home for projects, experiments, and documentation maintained
+under the **Gronshin** account.
+
+## What you will find here
+
+- Public repositories as they are released
+- Project documentation and examples
+- A maintained overview of current work
+
+## Current status
+
+This profile is being set up. More projects and details will be added as the
+workspace grows.
