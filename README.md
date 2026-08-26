@@ -1,23 +1,47 @@
 <div align="center">
 
-# Gronshin
+# Gleb · Gronshin
 
-Personal GitHub profile and public project hub.
+Building practical methods and local-first tools for human–AI collaboration.
 
 </div>
 
-## About this profile
+## Focus
 
-This is the public home for projects, experiments, and documentation maintained
-under the **Gronshin** account.
+- explicit human decision and authorization boundaries;
+- reproducible, Git-native workflows for people and agents;
+- evidence-aware use of AI services and their changing terms;
+- small open-source tools with quiet operational and supply-chain surfaces.
 
-## What you will find here
+## Projects
 
-- Public repositories as they are released
-- Project documentation and examples
-- A maintained overview of current work
+- [U/S/G](https://github.com/Gronshin/usg) — a method for assessing uncertainty,
+  change surface, and governance boundaries before execution.
+- [Work Ledger](https://github.com/Gronshin/work-ledger) — a local-first,
+  event-sourced tracker that keeps dependency readiness separate from human
+  authorization.
+- [Model Terms Observatory](https://github.com/Gronshin/model-terms-evidence) —
+  verification-only metadata and hashes for tracking changes in AI vendor
+  terms without redistributing their documents.
 
-## Current status
+Together, these projects cover assessment, execution evidence, and changing
+external constraints without turning access into authority or readiness into
+permission.
 
-This profile is being set up. More projects and details will be added as the
-workspace grows.
+## Writing
+
+- [Work Tracking for Human–LLM Collaboration: a comparative field
+  study](articles/work-tracking-for-human-llm-collaboration.md) — sanitized
+  observations from evaluating Beads, Backlog.md, and an event-log control,
+  followed by the design rationale for Work Ledger.
+
+## Technology and working style
+
+TypeScript, Node.js, Git, deterministic validation, local-first data, explicit
+security boundaries, and documentation that states what the evidence does not
+prove.
+
+## License
+
+Original authored profile and article content is available under
+[CC BY 4.0](LICENSE.md).
